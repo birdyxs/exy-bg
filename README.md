@@ -1,1 +1,1 @@
-cr. #CodePenChallenge: Winter Festival - Celebration (cpc-celebration) https://codepen.io/darika-dev/pen/JoPbGZp
+cr. pure CSS twinkling stars background by Anastasia Goodwin (https://codepen.io/agoodwin/pen/NMJoER)
